@@ -1,0 +1,23 @@
+{
+  "name": "projetofront",
+  "version": "1.0.0",
+  "description": "Projeto de conclusão da Pós Desenvolvimento Web FullStack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "rest",
+    "api"
+  ],
+  "author": "Erika Santos",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.0"
+  }
+}
